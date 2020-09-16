@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "heroes"
+    }
+  },
+  "defaultProject": "heroes",
+  "cli": {
+    "analytics": false
+  }
 }
